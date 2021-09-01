@@ -32,7 +32,7 @@
                  <a href="liste.php">AFFICHER</h3> </a></div>
                </div>
 
-               <div class="supprimer"><div><a href="supprimer.php"><img src="images/supprimer.png" width="256" height="256" alt="Logo Supprimer"></a></div>
+               <div class="supprimer"><div><a href="contacter.php"><img src="images/supprimer.png" width="256" height="256" alt="Logo Supprimer"></a></div>
                  <a href="contacter.php">NOUS CONTACTER</h3> </a></div>
                 
              </section>

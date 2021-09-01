@@ -22,7 +22,7 @@
 		p
 		{
 			font-size: xx-large;
-			color: greenyellow;
+			color: green;
 			font-weight: bold;
 		}
 	</style>
