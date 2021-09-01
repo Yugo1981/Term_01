@@ -32,6 +32,9 @@
                  <a href="liste.php">AFFICHER</h3> </a></div>
                </div>
 
+               <div class="supprimer"><div><a href="supprimer.php"><img src="images/supprimer.png" width="256" height="256" alt="Logo Supprimer"></a></div>
+                 <a href="contacter.php">NOUS CONTACTER</h3> </a></div>
+                
              </section>
             </center>
               <hr style="width: 900px; height: 10px" >
